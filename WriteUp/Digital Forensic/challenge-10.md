@@ -4,6 +4,7 @@
 
 ### แบบคนขยัน
 ```py
+import re
 filename = "challenge.txt"
 pattern = ".{7}c.{7}a.{7}f.{7}e"
 with open(filename) as file:
