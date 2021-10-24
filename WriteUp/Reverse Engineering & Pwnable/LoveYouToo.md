@@ -133,3 +133,6 @@ Success! Flag: NCSA{4933062932cb4ec35c0818af29a15b1d}!
 ```
 
 ![Imgur](https://i.imgur.com/77otpco.jpeg)
+
+![Imgur](https://imgur.com/v8tiJft.jpg)
+> *ผมเมื่อเห็นชื่อโปรแกรม*
