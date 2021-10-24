@@ -1,5 +1,5 @@
 # LoveYouToo.exe
-uses same ๆ step from previous solution ❤
+uses same ๆ step from [previous](1Time.md) solution ❤
 
 ## Step 1 : Improvise 
 ### Uses [dnSpy](https://github.com/dnSpy/dnSpy) for inspecting code
