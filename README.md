@@ -4,7 +4,7 @@
 </br>	
 
 # NCSA Senior Write Up
-|CTF Project|[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)|
+|CTF Write-up|[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)|
 |----|----|
 
 ## Webapplication
