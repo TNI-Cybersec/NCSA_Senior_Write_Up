@@ -1,4 +1,7 @@
 # 1Time.exe
+
+วันนี้เรามาลองแก้ปัญหาข้อนี้ด้วย IAO Methodology กันนะครับ ;w;
+
 uses same ๆ step from [next](LoveYouToo.md) solution 💔
 
 ## Step 1 : Improvise 
