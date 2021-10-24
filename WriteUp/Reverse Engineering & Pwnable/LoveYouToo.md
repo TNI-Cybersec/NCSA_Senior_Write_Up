@@ -118,7 +118,7 @@ public class Crypto
   }
 ```
 ### Result
-```bash
+```cmd
 Password = i love littledog
 Success! Flag: NCSA{4933062932cb4ec35c0818af29a15b1d}!
 ```
