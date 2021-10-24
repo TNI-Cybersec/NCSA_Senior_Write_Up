@@ -1,4 +1,11 @@
+<br>
+<img align="right" src="https://imgur.com/SN6ZqUt.png" width="500"></img>
+<p align="center">
+</br>	
+
 # NCSA Senior Write Up
+|CTF Project|[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)|
+|----|----|
 
 ## Webapplication
 
