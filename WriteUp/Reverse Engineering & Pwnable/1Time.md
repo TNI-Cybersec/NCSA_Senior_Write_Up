@@ -1,5 +1,5 @@
 # 1Time.exe
-uses same ๆ step from [next](LoveYouToo.md) solution ❤
+uses same ๆ step from [next](LoveYouToo.md) solution 💔
 
 ## Step 1 : Improvise 
 ### Uses [dnSpy](https://github.com/dnSpy/dnSpy) for inspecting code
