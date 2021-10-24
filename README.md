@@ -12,18 +12,17 @@
 
 - [NCSALOGO1](https://bit.ly/3b3hAhH)
 - [NCSALOGO2](https://bit.ly/3b3hAhH)
-- [NCSALOGO2](https://bit.ly/3b3hAhH)
-- [Challenge-06](https://bit.ly/3b3hAhH)
-- [Hackerman](https://bit.ly/3b3hAhH)
+- [Challenge-10](https://github.com/karinzaa/NCSA_Senior_Write_Up/blob/main/WriteUp/Digital%20Forensic/challenge-10.md)
+- [Hackerman](https://github.com/karinzaa/NCSA_Senior_Write_Up/blob/main/WriteUp/Digital%20Forensic/HackerMan.md)
 - [Hackerplayer](https://bit.ly/3b3hAhH)
 
 ## Reverse Engineering & Pwnable
 
 - [Challenge 01](https://bit.ly/3b3hAhH)
-- [1Time](https://bit.ly/3b3hAhH)
+- [1Time](https://github.com/karinzaa/NCSA_Senior_Write_Up/blob/main/WriteUp/Reverse%20Engineering%20%26%20Pwnable/1Time.md)
 - [NCSA_PWN1](https://bit.ly/3b3hAhH)
 - [NCSA_PWN2](https://bit.ly/3b3hAhH)
-- [LoveYouToo](https://bit.ly/3b3hAhH)
+- [LoveYouToo](https://github.com/karinzaa/NCSA_Senior_Write_Up/blob/main/WriteUp/Reverse%20Engineering%20%26%20Pwnable/LoveYouToo.md)
 
 ## Network
 
@@ -47,7 +46,6 @@
 
 
 ## Web Application
-
-- [༼ つ ◕_◕ ༽つ](https://bit.ly/3b3hAhH)
+- [WebSecretKey](https://github.com/karinzaa/NCSA_Senior_Write_Up/blob/main/WriteUp/Web%20Application/WebSecretKey.md)
 
 
