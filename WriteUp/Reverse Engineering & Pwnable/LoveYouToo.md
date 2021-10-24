@@ -4,7 +4,7 @@ uses same ๆ step from previous solution ❤
 ## Step 1 : Improvise 
 ### Uses [dnSpy](https://github.com/dnSpy/dnSpy) for inspecting code
 1. drags and drops `LoveYouToo.exe` in **dnSpy**
-2. found sth interesting as photos below 
+2. found sth interesting as photos below; `Program` and `Crypto` Class
 
 ![Imgur](https://imgur.com/17j86RS.png)
 ![Imgur](https://imgur.com/2ruWDzi.png)
