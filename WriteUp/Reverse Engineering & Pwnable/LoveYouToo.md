@@ -1,11 +1,20 @@
 # LoveYouToo.exe
+uses same ๆ step from previous solution ❤
 
 ## Step 1 : Improvise 
 ### Uses [dnSpy](https://github.com/dnSpy/dnSpy) for inspecting code
+1. drags and drops `LoveYouToo.exe` in **dnSpy**
+2. found sth interesting as photos below 
 
+![Imgur](https://imgur.com/17j86RS.png)
+![Imgur](https://imgur.com/2ruWDzi.png)
+
+> it's all geek to me #%$#$^T@#^%$<br>
+> jk, never gonna give you up
 
 ## Step 2 : Adapt
-### Duplicating `Crypto` Class
+### Duplicates `Crypto` Class from dnSpy
+> using Visual Studio for C# project
 ```cs
 public class Crypto
 {
