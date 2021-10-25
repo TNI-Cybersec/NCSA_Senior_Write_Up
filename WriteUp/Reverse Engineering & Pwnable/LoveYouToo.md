@@ -132,7 +132,7 @@ Password = i love littledog
 Success! Flag: NCSA{4933062932cb4ec35c0818af29a15b1d}!
 ```
 
-## Note
+## Notes
 จริง ๆ แล้วเราสามารถใช้ **dnSpy** แก้ไขโค้ดในโปรแกรม ***(patch)*** ให้แสดงคำตอบได้เลยโดยไม่ต้องเสียเวลาลอกโค้ดใหม่เช่นกันครับ 5555
 
 ![Imgur](https://i.imgur.com/77otpco.jpeg)
