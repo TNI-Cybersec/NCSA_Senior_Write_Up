@@ -131,4 +131,7 @@ public class Crypto
 Success! Flag: NCSA{c29b8ad5076fde6b56ea1519a5c2145f}}!
 ```
 
+## Note
+จริง ๆ แล้วเราสามารถใช้ dnSpy แก้ไขโค้ดในโปรแกรม (patch) ให้แสดงคำตอบได้เลยโดยไม่ต้องเสียเวลาลอกโค้ดใหม่ 5555
+
 ![Imgur](https://i.imgur.com/77otpco.jpeg)
