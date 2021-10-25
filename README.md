@@ -47,7 +47,7 @@
 
 ## Web Application
 
-- [WebSecretKey](https://medium.com/@PlyNatwara/websecretkey-writeups-thailand-cyber-top-talent-2021-senior-9f137e9435ce)
+- [WebSecretKey](https://github.com/TNI-Cybersec/NCSA_Senior_Write_Up/blob/main/WriteUp/Web%20Application/WebSecretKey.md)
 - [WebAccessControl](https://medium.com/@PlyNatwara/webaccesscontrol-writeups-thailand-cyber-top-talent-2021-senior-7c83f141528c)
 
 
