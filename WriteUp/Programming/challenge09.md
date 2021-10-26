@@ -1,4 +1,5 @@
-#!/usr/bin/env python3
+### โจทย์
+```#!/usr/bin/env python3
 
 #flag = b'REDACTED'
 flag = 'NCSA{45d20b1d2cc2d52e74b3cbf1750a2e31}'
@@ -16,7 +17,10 @@ ciphertext = enc(flag)
 print(ciphertext)
 
 ciphertext = b'UUUUUUUU\x10\xf2BC"\xc5QaT1\x114!T1DD1Ta1d\x81Q4AD4t!\x81a\x11$1dA!\xe5\x10UUUUUUUU'
+```
+### เมื่อแก้แล้ว
 
+```
 def dec(plaintext):
     out = []
     for c in plaintext:
@@ -30,3 +34,4 @@ plaintext = dec(ciphertext)
 print(flag)
 print("".join([chr(x) for x in plaintext]))
 # plaintext = b'tttttttt NCSA{45d20b1d2cc2d52e74b3cbf1750a2e31} tttttttt'
+```
