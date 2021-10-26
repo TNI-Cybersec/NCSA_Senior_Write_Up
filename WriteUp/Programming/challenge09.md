@@ -1,8 +1,6 @@
 ### โจทย์
-```#!/usr/bin/env python3
-
-#flag = b'REDACTED'
-flag = 'NCSA{45d20b1d2cc2d52e74b3cbf1750a2e31}'
+```
+flag = b'REDACTED'
 
 def enc(plaintext):
     out = []
@@ -34,4 +32,6 @@ plaintext = dec(ciphertext)
 print(flag)
 print("".join([chr(x) for x in plaintext]))
 # plaintext = b'tttttttt NCSA{45d20b1d2cc2d52e74b3cbf1750a2e31} tttttttt'
+
+flag = 'NCSA{45d20b1d2cc2d52e74b3cbf1750a2e31}'
 ```
