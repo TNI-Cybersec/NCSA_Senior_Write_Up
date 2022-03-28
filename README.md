@@ -5,7 +5,7 @@
 
 # NCSA Senior Write Up
 ## By [TNI Cybersec](https://tni-cybersec.github.io)
-|CTF Write-up|[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)|
+|CTF Write-up|[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)|
 |----|----|
 
 ## Digital Forensic
