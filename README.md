@@ -3,7 +3,7 @@
 <p align="center">
 </br>	
 
-# NCSA Senior Write Up
+# NCSA - Thailand Cyber Top Talent 2021 Writeups
 ## By [TNI Cybersec](https://tni-cybersec.github.io)
 |CTF Write-up|[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)|
 |----|----|
