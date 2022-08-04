@@ -4,8 +4,10 @@
 
 uses same ๆ step from [next](LoveYouToo.md) solution 💔
 
-## Step 1 : Improvise 
+## Step 1 : Improvise
+
 ### Uses [dnSpy](https://github.com/dnSpy/dnSpy) for inspecting code
+
 1. drags and drops `1Time.exe` in **dnSpy**
 2. found sth interesting as photos below; `Program` and `Crypto` Class
 
@@ -15,8 +17,11 @@ uses same ๆ step from [next](LoveYouToo.md) solution 💔
 > PS: actually, you can try reversing the `Program.main` here..., but i'm too lazy lol
 
 ## Step 2 : Adapt
+
 ### Duplicates `Crypto` Class from dnSpy
+
 > using Visual Studio for C# project
+
 ```cs
 public class Crypto
 {
@@ -115,10 +120,12 @@ public class Crypto
 
   private static byte[] _salt = Encoding.ASCII.GetBytes("28a408b8cdc386749bfb345975fb76bb");
 }
-``` 
+```
 
 ## Step 3 : Overcome
+
 ### Reversing
+
 ```cs
   static void Main(string[] args)
   {
@@ -126,12 +133,15 @@ public class Crypto
     Console.ReadLine();
   }
 ```
+
 ### Result
+
 ```cmd
 Success! Flag: NCSA{c29b8ad5076fde6b56ea1519a5c2145f}}!
 ```
 
 ## Notes
-จริง ๆ แล้วเราสามารถใช้ **dnSpy** แก้ไขโค้ดในโปรแกรม ***(patch)*** ให้แสดงคำตอบได้เลยโดยไม่ต้องเสียเวลาลอกโค้ดใหม่ 5555
+
+จริง ๆ แล้วเราสามารถใช้ **dnSpy** แก้ไขโค้ดในโปรแกรม **_(patch)_** ให้แสดงคำตอบได้เลยโดยไม่ต้องเสียเวลาลอกโค้ดใหม่ 5555
 
 ![Imgur](https://i.imgur.com/77otpco.jpeg)

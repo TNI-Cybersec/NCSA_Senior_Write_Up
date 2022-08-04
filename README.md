@@ -9,17 +9,17 @@
 
 - [NCSALOGO1](https://bit.ly/3b3hAhH)
 - [NCSALOGO2](https://bit.ly/3b3hAhH)
-- [Challenge-10](WriteUp/Digital%20Forensic/challenge-10.md)
-- [Hackerman](WriteUp/Digital%20Forensic/HackerMan.md)
+- [Challenge-10](WriteUp/Digital-Forensic/challenge-10.md)
+- [Hackerman](WriteUp/Digital-Forensic/HackerMan.md)
 - [Hackerplayer](https://medium.com/@PlyNatwara/hackerplayer-writeups-thailand-cyber-top-talent-2021-senior-986c2cbbddc4)
 
 ## Reverse Engineering & Pwnable
 
 - [Challenge 01](https://bit.ly/3b3hAhH)
-- [1Time](WriteUp/Reverse%20Engineering%20%26%20Pwnable/1Time.md)
+- [1Time](WriteUp/Reverse-Engineering-&-Pwnable/1Time.md)
 - [NCSA_PWN1](https://bit.ly/3b3hAhH)
 - [NCSA_PWN2](https://bit.ly/3b3hAhH)
-- [LoveYouToo](WriteUp/Reverse%20Engineering%20%26%20Pwnable/LoveYouToo.md)
+- [LoveYouToo](WriteUp/Reverse-Engineering-&-Pwnable/LoveYouToo.md)
 
 ## Network
 

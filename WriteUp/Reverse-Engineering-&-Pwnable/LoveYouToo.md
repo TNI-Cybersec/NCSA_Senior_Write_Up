@@ -1,8 +1,11 @@
 # LoveYouToo.exe
+
 uses same ๆ step from [previous](1Time.md) solution ❤
 
-## Step 1 : Improvise 
+## Step 1 : Improvise
+
 ### Uses [dnSpy](https://github.com/dnSpy/dnSpy) for inspecting code
+
 1. drags and drops `LoveYouToo.exe` in **dnSpy**
 2. found sth interesting as photos below; `Program` and `Crypto` Class
 
@@ -13,8 +16,11 @@ uses same ๆ step from [previous](1Time.md) solution ❤
 > jk, never gonna give you up
 
 ## Step 2 : Adapt
+
 ### Duplicates `Crypto` Class from dnSpy
+
 > using Visual Studio for C# project
+
 ```cs
 public class Crypto
 {
@@ -113,10 +119,12 @@ public class Crypto
 
   private static byte[] _salt = Encoding.ASCII.GetBytes("23f4da7ad7ac9a74be5f5b245efde5fc");
 }
-``` 
+```
 
 ## Step 3 : Overcome
+
 ### Reversing
+
 ```cs
   static void Main(string[] args)
   {
@@ -126,16 +134,20 @@ public class Crypto
     Console.ReadLine();
   }
 ```
+
 ### Result
+
 ```cmd
 Password = i love littledog
 Success! Flag: NCSA{4933062932cb4ec35c0818af29a15b1d}!
 ```
 
 ## Notes
-จริง ๆ แล้วเราสามารถใช้ **dnSpy** แก้ไขโค้ดในโปรแกรม ***(patch)*** ให้แสดงคำตอบได้เลยโดยไม่ต้องเสียเวลาลอกโค้ดใหม่เช่นกันครับ 5555
+
+จริง ๆ แล้วเราสามารถใช้ **dnSpy** แก้ไขโค้ดในโปรแกรม **_(patch)_** ให้แสดงคำตอบได้เลยโดยไม่ต้องเสียเวลาลอกโค้ดใหม่เช่นกันครับ 5555
 
 ![Imgur](https://i.imgur.com/77otpco.jpeg)
 
 ![Imgur](https://imgur.com/v8tiJft.jpg)
-> *ผมเมื่อเห็นชื่อโปรแกรม*
+
+> _ผมเมื่อเห็นชื่อโปรแกรม_
