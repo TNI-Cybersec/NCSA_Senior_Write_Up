@@ -9,17 +9,17 @@
 
 - [NCSALOGO1](https://bit.ly/3b3hAhH)
 - [NCSALOGO2](https://bit.ly/3b3hAhH)
-- [Challenge-10](https://github.com/TNI-Cybersec/NCSA_Senior_Write_Up/blob/main/WriteUp/Digital%20Forensic/challenge-10.md)
-- [Hackerman](https://github.com/TNI-Cybersec/NCSA_Senior_Write_Up/blob/main/WriteUp/Digital%20Forensic/HackerMan.md)
+- [Challenge-10](WriteUp/Digital%20Forensic/challenge-10.md)
+- [Hackerman](WriteUp/Digital%20Forensic/HackerMan.md)
 - [Hackerplayer](https://medium.com/@PlyNatwara/hackerplayer-writeups-thailand-cyber-top-talent-2021-senior-986c2cbbddc4)
 
 ## Reverse Engineering & Pwnable
 
 - [Challenge 01](https://bit.ly/3b3hAhH)
-- [1Time](https://github.com/karinzaa/NCSA_Senior_Write_Up/blob/main/WriteUp/Reverse%20Engineering%20%26%20Pwnable/1Time.md)
+- [1Time](WriteUp/Reverse%20Engineering%20%26%20Pwnable/1Time.md)
 - [NCSA_PWN1](https://bit.ly/3b3hAhH)
 - [NCSA_PWN2](https://bit.ly/3b3hAhH)
-- [LoveYouToo](https://github.com/TNI-Cybersec/NCSA_Senior_Write_Up/blob/main/WriteUp/Reverse%20Engineering%20%26%20Pwnable/LoveYouToo.md)
+- [LoveYouToo](WriteUp/Reverse%20Engineering%20%26%20Pwnable/LoveYouToo.md)
 
 ## Network
 
@@ -30,9 +30,9 @@
 
 ## Programming
 
-- [Challenge-09](https://github.com/TNI-Cybersec/NCSA_Senior_Write_Up/blob/main/WriteUp/Programming/challenge09.md)
-- [Challenge-12](https://github.com/TNI-Cybersec/NCSA_Senior_Write_Up/blob/main/WriteUp/Programming/challenge12.py)
-- [Challenge-13](https://github.com/TNI-Cybersec/NCSA_Senior_Write_Up/blob/main/WriteUp/Programming/challenge13.py)
+- [Challenge-09](WriteUp/Programming/challenge09.md)
+- [Challenge-12](WriteUp/Programming/challenge12.py)
+- [Challenge-13](WriteUp/Programming/challenge13.py)
 - [Challenge-14](https://bit.ly/3b3hAhH)
 - [Challenge-15](https://bit.ly/3b3hAhH)
 
@@ -44,7 +44,7 @@
 
 ## Web Application
 
-- [WebSecretKey](https://github.com/TNI-Cybersec/NCSA_Senior_Write_Up/blob/main/WriteUp/Web%20Application/WebSecretKey.md)
+- [WebSecretKey](WriteUp/Web%20Application/WebSecretKey.md)
 - [WebAccessControl](https://medium.com/@PlyNatwara/webaccesscontrol-writeups-thailand-cyber-top-talent-2021-senior-7c83f141528c)
 
 
