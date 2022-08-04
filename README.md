@@ -44,7 +44,7 @@
 
 ## Web Application
 
-- [WebSecretKey](WriteUp/Web%20Application/WebSecretKey.md)
+- [WebSecretKey](WriteUp/Web-Application/WebSecretKey.md)
 - [WebAccessControl](https://medium.com/@PlyNatwara/webaccesscontrol-writeups-thailand-cyber-top-talent-2021-senior-7c83f141528c)
 
 
